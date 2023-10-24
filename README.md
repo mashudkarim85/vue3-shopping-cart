@@ -2,6 +2,8 @@
 
 ### Start vue application
 ```
+cd vue3-shopping-cart
+npm install
 npm run dev
 ```
 
