@@ -5,8 +5,8 @@ import { authStore } from '../store/store';
 
 import router from '../router/router'
 
-const username = ref('m@gmail.com')
-const password =  ref('sa')
+const username = ref('')
+const password =  ref('')
 
 </script>
 <template>
